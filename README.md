@@ -38,6 +38,6 @@ TryHackMe · Wireshark · nmap · Linux (Ubuntu Server) · Python · Git · Anki
 
 ## Contact
 
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/rui-pedro-69486844a]
 - Email: [ruipedrocyber@proton.me]
 - Location: Portugal (Porto area), open to remote work
