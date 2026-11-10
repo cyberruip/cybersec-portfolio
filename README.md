@@ -1,7 +1,6 @@
 # Rui Pedro — Cybersecurity Portfolio
 
-Aspiring **SOC Analyst (Blue Team)** based in Portugal, building a hands-on portfolio in public. Started on **10 November 2026**, aiming to be job-ready in **12 months**.
-
+Aspiring **SOC Analyst (Blue Team)** based in Portugal, building a hands-on portfolio in public. Started on **10 November 2026**.
 ## About me
 
 - Studied Telecommunications and Informatics Engineering at ISEP, which gave me a solid base in networking.
