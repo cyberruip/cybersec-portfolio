@@ -44,6 +44,6 @@ TryHackMe · Kali Linux · Ubuntu Server · nmap · Wireshark · Python · Git �
 
 ## Contact
 
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/rui-pedro-69486844a]
 - Email: ruipedro.cyber@proton.me
 - Location: Portugal (Porto area), open to remote work
